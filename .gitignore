@@ -140,7 +140,9 @@ celerybeat.pid
 mnesia/
 rabbitmq/
 rabbitmq-data/
-
+data/ 
+.data 
+data
 # ActiveMQ
 activemq-data/
 
